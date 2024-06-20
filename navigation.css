@@ -1,0 +1,41 @@
+.navbar{
+    background-color: black;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo a{
+ color: red;
+}
+li{
+    list-style: none;
+    display: inline-block
+}
+li a{
+    margin-right: 10px;
+    color: white;
+}
+.info p{
+    display: inline-flex;
+    position: absolute;
+    right: 276px;
+}
+.image{
+  display: flex;
+  position: relative;
+  flex-direction: row-reverse;
+  top: 10px;
+ 
+}
+/* footer{
+    display: ;
+    
+    padding: 10px;
+    background-color: #abbaba;
+    color: #000;
+
+} */
